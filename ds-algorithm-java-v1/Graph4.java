@@ -70,7 +70,7 @@ public class Graph4 {
 
             //iterate row and look if there is adjacency neighboor on that
             for(int i = 0; i < matrix[src].length; i++) {
-                //during each iteration, let's check to see the value is 1, and the nodes that we are trying to visit has not already been visited
+                //during each iteration, let's check to see the value is 1, and the nodes that we are trying to visit have not already been visited
                 if(matrix[src][i] == 1 && !visited[i]) {
                     queue.offer(i); //i is an index
                     visited[i] = true;
