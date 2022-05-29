@@ -1,4 +1,4 @@
-This is folder to share what i have learned about algorithms and data structures in C++
+This folder contains what I have learned about algorithms and data structures in C++
 
 ------------------------------
 Guides:
