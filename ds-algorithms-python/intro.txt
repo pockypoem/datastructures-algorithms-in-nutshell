@@ -1,0 +1,15 @@
+ALgorithm
+A set of steps or instructions for completing a task.
+Ex: A recipe is an algorithm, your morning routine is also an algorithm.
+
+Algorithm in programming context means
+A set of steps a program takes to finish a task.
+
+Learning about algorithms gives you deeper understanding about complexity and eficiency in programming.
+
+Guidelines about algorithm:
+- Clearly defined problem statement, input, and output
+- The steps in the algorithm need to be in a very specific order
+- The steps also need to be distinct (you should not be able to break it down into further subtask)
+- The algorithm should produce a result
+- The algorithm should complete in a finite amount of time
